@@ -1,0 +1,10 @@
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Domain\bin\Debug\netcoreapp3.1\ProjectSchool.Domain.deps.json
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Domain\bin\Debug\netcoreapp3.1\ProjectSchool.Domain.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Domain\bin\Debug\netcoreapp3.1\ProjectSchool.Domain.pdb
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Domain\obj\Debug\netcoreapp3.1\ProjectSchool.Domain.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Domain\obj\Debug\netcoreapp3.1\ProjectSchool.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Domain\obj\Debug\netcoreapp3.1\ProjectSchool.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Domain\obj\Debug\netcoreapp3.1\ProjectSchool.Domain.AssemblyInfo.cs
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Domain\obj\Debug\netcoreapp3.1\ProjectSchool.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Domain\obj\Debug\netcoreapp3.1\ProjectSchool.Domain.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Domain\obj\Debug\netcoreapp3.1\ProjectSchool.Domain.pdb

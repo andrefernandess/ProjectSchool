@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\bin\Debug\netcoreapp3.1\ProjectSchool.Application.deps.json
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\bin\Debug\netcoreapp3.1\ProjectSchool.Application.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\bin\Debug\netcoreapp3.1\ProjectSchool.Application.pdb
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\bin\Debug\netcoreapp3.1\ProjectSchool.Domain.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\bin\Debug\netcoreapp3.1\ProjectSchool.Persistence.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\bin\Debug\netcoreapp3.1\ProjectSchool.Domain.pdb
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\bin\Debug\netcoreapp3.1\ProjectSchool.Persistence.pdb
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\obj\Debug\netcoreapp3.1\ProjectSchool.Application.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\obj\Debug\netcoreapp3.1\ProjectSchool.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\obj\Debug\netcoreapp3.1\ProjectSchool.Application.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\obj\Debug\netcoreapp3.1\ProjectSchool.Application.AssemblyInfo.cs
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\obj\Debug\netcoreapp3.1\ProjectSchool.Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\obj\Debug\netcoreapp3.1\ProjectSchool.Application.csproj.CopyComplete
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\obj\Debug\netcoreapp3.1\ProjectSchool.Application.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Application\obj\Debug\netcoreapp3.1\ProjectSchool.Application.pdb

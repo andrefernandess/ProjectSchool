@@ -1,0 +1,16 @@
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\bin\Debug\netcoreapp3.1\ProjectSchool.Persistence.deps.json
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\bin\Debug\netcoreapp3.1\ProjectSchool.Persistence.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\bin\Debug\netcoreapp3.1\ProjectSchool.Persistence.pdb
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\bin\Debug\netcoreapp3.1\ProjectSchool.Domain.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\bin\Debug\netcoreapp3.1\ProjectSchool.Domain.pdb
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\obj\Debug\netcoreapp3.1\ProjectSchool.Persistence.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\obj\Debug\netcoreapp3.1\ProjectSchool.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\obj\Debug\netcoreapp3.1\ProjectSchool.Persistence.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\obj\Debug\netcoreapp3.1\ProjectSchool.Persistence.AssemblyInfo.cs
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\obj\Debug\netcoreapp3.1\ProjectSchool.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\obj\Debug\netcoreapp3.1\ProjectSchool.Persistence.csproj.CopyComplete
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\obj\Debug\netcoreapp3.1\ProjectSchool.Persistence.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\obj\Debug\netcoreapp3.1\ProjectSchool.Persistence.pdb
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\bin\Debug\netcoreapp3.1\ProjectSchool.Persistence.runtimeconfig.json
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\bin\Debug\netcoreapp3.1\ProjectSchool.Persistence.runtimeconfig.dev.json
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Persistence\obj\Debug\netcoreapp3.1\ProjectSchool.Persistence.genruntimeconfig.cache
