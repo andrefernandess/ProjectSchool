@@ -10,16 +10,17 @@ namespace ProjectSchool.Application.Dtos
     {
         public int Id { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
         public string Name { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
+        [EmailAddress(ErrorMessage = "O valor fornecido não é válido")]
         public string Email { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
         public string Ra { get; set; }
-        
-        [Required]
+
+        [Required(ErrorMessage = "O campo {0} é obrigatório")]
         public string Cpf { get; set; }
     }
 }

@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ProjectSchool.Application.Dtos;
 using ProjectSchool.Application.Interfaces;
 using ProjectSchool.Domain.Models;
 
@@ -20,7 +21,7 @@ namespace ProjectSchool.Tests.Students
             };
         }
 
-        public Task<Student> Add(Student student)
+        public Task<StudentDto> Add(StudentDto student)
         {
             throw new NotImplementedException();
         }
@@ -30,22 +31,22 @@ namespace ProjectSchool.Tests.Students
             throw new NotImplementedException();
         }
 
-        public Task<IEnumerable<Student>> GetAll()
+        public Task<IEnumerable<StudentDto>> GetAll()
         {
             throw new NotImplementedException();
         }
 
-        public Task<Student> GetById(int id)
+        public Task<StudentDto> GetById(int id)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Student> GetByRa(string ra)
+        public Task<StudentDto> GetByRa(string ra)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Student> Update(int id, Student student)
+        public Task<StudentDto> Update(int id, StudentDto student)
         {
             throw new NotImplementedException();
         }
