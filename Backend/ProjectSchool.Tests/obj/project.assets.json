@@ -35,6 +35,19 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "ExpectedObjects/2.3.4": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1",
+          "System.Reflection.TypeExtensions": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard1.3/ExpectedObjects.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/ExpectedObjects.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "compile": {
@@ -1647,7 +1660,7 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.5/_._": {}
+          "ref/netstandard1.5/System.Reflection.TypeExtensions.dll": {}
         },
         "runtime": {
           "lib/netstandard1.5/System.Reflection.TypeExtensions.dll": {}
@@ -2543,6 +2556,19 @@
         "coverlet-icon.png",
         "coverlet.collector.3.0.2.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "ExpectedObjects/2.3.4": {
+      "sha512": "apxd2+TpSkXAF14LJs6yksr7yZyV1lF/GM/8GipJg+p7Ih1jhLKri/xYsgV9+OpBKzsAy+4lYQ8CswvHCOSrFQ==",
+      "type": "package",
+      "path": "expectedobjects/2.3.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "expectedobjects.2.3.4.nupkg.sha512",
+        "expectedobjects.nuspec",
+        "lib/net40/ExpectedObjects.dll",
+        "lib/netstandard1.3/ExpectedObjects.dll"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -8222,6 +8248,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "ExpectedObjects >= 2.3.4",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "ProjectSchool.Application >= 1.0.0",
       "ProjectSchool.Domain >= 1.0.0",
@@ -8237,11 +8264,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Tests\\ProjectSchool.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Tests\\ProjectSchool.Tests.csproj",
       "projectName": "ProjectSchool.Tests",
-      "projectPath": "C:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Tests\\ProjectSchool.Tests.csproj",
+      "projectPath": "c:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Tests\\ProjectSchool.Tests.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Tests\\obj\\",
+      "outputPath": "c:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -8262,11 +8289,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Application\\ProjectSchool.Application.csproj": {
-              "projectPath": "C:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Application\\ProjectSchool.Application.csproj"
+            "c:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Application\\ProjectSchool.Application.csproj": {
+              "projectPath": "c:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Application\\ProjectSchool.Application.csproj"
             },
-            "C:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Domain\\ProjectSchool.Domain.csproj": {
-              "projectPath": "C:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Domain\\ProjectSchool.Domain.csproj"
+            "c:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Domain\\ProjectSchool.Domain.csproj": {
+              "projectPath": "c:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Domain\\ProjectSchool.Domain.csproj"
             }
           }
         }
@@ -8281,6 +8308,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "ExpectedObjects": {
+            "target": "Package",
+            "version": "[2.3.4, )"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[16.9.4, )"

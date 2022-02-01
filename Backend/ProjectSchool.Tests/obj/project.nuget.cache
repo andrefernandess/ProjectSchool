@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/Pdo5zFOnkNXFErU7S60pTthKzEseYdL1TgbjOO+6NyutyLI16aGCcUlo5/wBlE9hRZH3gk0wFPVYcV6Pku27w==",
+  "dgSpecHash": "jmRaicrpfCsvAXDM9eESPblVD4wgwBsqNQCaSKF9YBAXpmhhpr8YWY4Zt96/mq4c8WehzxvhjRJOB6S23+mQ7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Tests\\ProjectSchool.Tests.csproj",
+  "projectFilePath": "c:\\Users\\andre\\Documents\\Projetos\\testeA\\ProjectSchool\\Backend\\ProjectSchool.Tests\\ProjectSchool.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\expectedobjects\\2.3.4\\expectedobjects.2.3.4.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
