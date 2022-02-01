@@ -19,3 +19,11 @@
 
 - ORM EntityFrameworkCore;
 - AutoMapper;
+
+## Melhorias a serem implementadas
+
+- Ajustes e conclusão do Front-end;
+- Implementar mais testes unitarios;
+- Análisar possivel melhoria da Arquitetura escolhida;
+
+- OBS: Não foi finalizado o Front por tempo e não conhecimento da tecnologia solicitada.
