@@ -46,9 +46,9 @@ export default {
     return {
       titulo: 'Aluno',
       name: '',
-      ra: '',
-      cpf: '',
-      email: '',
+      Ra: '',
+      Cpf: '',
+      Email: '',
       alunos: []
     }
   },
@@ -64,25 +64,27 @@ export default {
   methods: {
     addAluno() {
       let _aluno = {
-        Id: 0,
-        Ra: '',
-        Name: this.Name,
-        Cpf: '',
-        Email: ''
+        name: this.name,
+        email: this.email,
+        ra: this.ra,
+        cpf: this.cpf,
       };
 
       this.$http.post(urlApi+"/students", _aluno)
         .then(res => res.json())
         .then(aluno => {
           this.alunos.push(aluno);
-          this.nome = "";
+          this.name = "";
         console.log(aluno);
       })
 
     },
     remover(aluno) {
-      let indice = this.alunos.indexOf(aluno);
-      this.alunos.splice(indice,1);
+       this.$http.delete(`${urlApi}/students/${aluno.id}`)
+          .then(() => {
+            let indice = this.alunos.indexOf(aluno);
+            this.alunos.splice(indice, 1);
+          });
     }
   },
 }

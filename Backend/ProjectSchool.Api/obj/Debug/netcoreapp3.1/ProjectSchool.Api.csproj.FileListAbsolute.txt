@@ -66,3 +66,9 @@ C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Api
 C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Api\obj\Debug\netcoreapp3.1\ProjectSchool.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Api\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Api\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Api\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\andre\Documents\Projetos\testeA\ProjectSchool\Backend\ProjectSchool.Api\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
